@@ -12,4 +12,4 @@ Revision,Timestamp
 
 
 Demo:
-+![Alt text](/images/graph.PNG "Punch card with tooltips")
++![Alt text](/image/graph.PNG "Punch card with tooltips")
