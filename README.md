@@ -1,4 +1,4 @@
-# PunchCard-D3-Corssfilter
+# D3-Corssfilter-PunchCard
 Based on D3 and Corssfilter, a github-like punch card is implemented on commits log data. 
 
 
